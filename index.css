@@ -1,0 +1,202 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+#menu{
+	position:relative;
+	margin-top:0cm;
+	padding-top:0.5cm;
+	margin-left:1cm;
+}
+#menu ul li a {
+	/*clear:both;*/
+	text-decoration:none;
+	list-style:none;
+	color:#fff;
+	font-family:Arial;
+	font-weight:bold;
+	font-size:9pt;	
+}
+#menu ul li{
+	display:inline;
+	margin: 1cm 0.0cm 0.0cm 0.5cm;
+	margin-top:1cm;
+	margin-left:0.7cm;
+}
+#logo{
+	margin-top:0.3cm;
+	margin-left:3.5cm;
+	margin-right:7cm;
+	float:left;
+	position:relative;
+	color:white;
+	font-size:20pt;
+
+}
+#barra{
+	width:100%;
+	height:2cm;
+	background-color: rgba(10,23,55,0.5);
+	position:absolute;
+
+}
+
+.cadastro{
+	background-color:#40E0D0;
+	padding-bottom:0.3cm;
+	padding-left:0.3cm;
+	padding-right:0.3cm;
+	padding-top:0.3cm;
+}
+
+.buscar{
+	width:3cm;
+	height:0.8cm;
+	margin-top:0.5cm;
+	margin-left:1.0cm;
+	float:left;
+	position:relative;
+	
+}
+.busca{
+	height:0.8cm;
+	margin-top:0.5cm;
+	margin-right:1cm;
+	float:left;
+	background-color:#40E0D0;
+	border:none;
+	color:#fff;
+	font-size:9pt;
+	padding-left:0.2cm;
+	padding-right:0.2cm;
+	padding-top:0.0cm;
+	position:relative;
+	
+}
+footer{
+	width:100%;
+	height:2cm;
+	/*background-color:#27408B;*/
+	background-color:#424242;
+	
+}
+iframe{
+	padding-top:2cm;
+	padding-left:2cm;
+	padding-right:2cm;
+	float:left;
+}
+.rodape{
+	list-style:none;
+	padding-top:1cm;
+	padding-left:2cm;
+	
+}
+
+ li a{
+	color:#fff;
+	list-style:none; 
+	text-decoration:none;
+}
+div.banner{
+	clear:both;
+	background:url(banner.jpg);
+	width:100%;
+	height:300px;
+}
+.foto{
+	position:absolute;
+	height:670px;
+}
+.bandeiras{
+	
+	margin-top:1cm;
+}
+.contatos{
+	margin-top:0cm;
+	color:#fff;
+	margin-right:0.5cm;
+	padding-top:2cm;
+}
+#contatorodape{
+	float:left;
+	margin-right:1cm;
+}
+#buscar1{
+	width:3cm;
+	height:0.8cm;
+	margin-top:0.5cm;
+	margin-left:0.5cm;
+	float:left;
+}
+#busca1{
+	height:0.8cm;
+	margin-top:0.5cm;
+	margin-right:1cm;
+	float:left;
+	background-color:#40E0D0;
+	border:none;
+	color:#fff;
+	font-size:9pt;
+	padding-left:0.2cm;
+	padding-right:0.2cm;
+	padding-top:0.0cm;
+	
+}
+#menurodape{
+	float:left;
+}
+.redes{
+	padding-top:1cm;
+}
+.quali{
+	font-size:30pt;
+	padding-left:15cm;
+}
+.forma{
+	font-size:30pt;
+	padding-left:12cm;
+}
+.academico{
+	padding-left: 2cm;
+	padding-right:2cm;
+	text-align:justify;
+}
+.titulo{
+	font-weight:bold;
+	font-size:15pt;
+	padding-left:2cm;
+}
+.periodo{
+	font-weight:bold;
+	font-family:verdana;
+	font-size:12pt;
+	padding-left:2cm;
+	color:#0B0B61;
+}
+.profissao{
+	padding-left: 2cm;
+	padding-right:2cm;
+}
+form{
+	margin-left: 2cm;
+
+}
+.enviar{
+	background-color:#40E0D0;
+	padding-bottom:0.3cm;
+	padding-left:0.3cm;
+	padding-right:0.3cm;
+	padding-top:0.3cm;
+	border:none;
+}
+input{
+	width:9.5cm;
+	height:1cm;
+}
+.direitos{
+	padding-left:15cm;
+	color:white;
+	font-size:12pt;
+	padding-top:0.5cm;
+}
